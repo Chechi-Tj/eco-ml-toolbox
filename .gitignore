@@ -1,0 +1,13 @@
+# Python / Jupyter
+__pycache__/
+*.pyc
+.env
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Ignore everything in data/ except .gitkeep
+data/*
+!data/.gitkeep
